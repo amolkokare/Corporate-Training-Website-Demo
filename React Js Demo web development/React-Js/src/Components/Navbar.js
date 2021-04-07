@@ -56,8 +56,14 @@ function Navbar(){
 
     return(
         <>
+        
+        
          <nav className='navbar'>
+         
+             <img src="/img/Mani's logo.bmp" alt=""></img>
+             
              <Link to ='/' className='navbar-logo'>
+             
                  Mani's Corporate Training
              </Link>
              <div className='menu-icon' onClick={handleClick}>

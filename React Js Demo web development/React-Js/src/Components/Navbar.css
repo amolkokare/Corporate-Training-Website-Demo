@@ -59,6 +59,11 @@
   .menu-icon {
     display: none;
   }
+
+  .navbar img{
+    width: 20%;
+    height: 85px;
+  }
   
   
 
