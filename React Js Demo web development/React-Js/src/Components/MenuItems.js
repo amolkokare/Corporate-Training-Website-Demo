@@ -9,11 +9,7 @@ export const MenuItems =[
         path:'/corporate',
         cName:'dropdown-link'
     },
-    {
-        title:'Social Responsbility',
-        path:'/social',
-        cName:'dropdown-link'
-    },
+    
     {
         title:'New Course',
         path:'/corse',
@@ -22,6 +18,11 @@ export const MenuItems =[
     {
         title:'Manis Hiring !',
         path:'/manis',
+        cName:'dropdown-link'
+    },
+    {
+        title:'Social Responsbility',
+        path:'/social',
         cName:'dropdown-link'
     }
 ]

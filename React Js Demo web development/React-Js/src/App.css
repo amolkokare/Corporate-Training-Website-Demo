@@ -5,7 +5,7 @@
     font-family: 'PT Sans', sans-serif;
 }
 
-.CorporateTraining,.Microsoft{
+.CorporateTraining,.Microsoft,.home{
     display: flex;
     height: 90vh;
     align-items: center;
@@ -54,21 +54,45 @@
   height: 80%;
 }
 
-.cd img{
+.home{
+    background-image: url('./f new.bmp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(14, 2, 2);
     margin-top: 2%;
-    height: 100%;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 6%;
+    margin-right: 6%;
     
+}
+.home h2{
+    font-size: 40px;
+    font-style:inherit;
+    align-items:left;
+    margin-bottom: 10%;
+    margin-right: 50%;
+    margin-left:2%;
+
+}
+
+.bc {
+    color: #107dac;
     
+}
+.ab{
+    font-size:20px;
+    line-height:60px;
+    color:rgb(44,44,44);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .ef img{
     border: 1px solid transparent;
     border-color: black;
     margin-top: 2%;
-    margin-left: 6%;
-  margin-right: 6%;
+    margin-left: 10%;
+  margin-right: 4%;
   width: 80%;
-  height: 80%;
+  height: 200px;
+
     }

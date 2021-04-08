@@ -17,7 +17,7 @@ export default function AboutUs() {
 
          <h3>Our USPs:</h3>
 
-         <img src='/img/ri.bmp' alt="ribbon"></img>
+         <img src='/img/r new.bmp' alt="ribbon"></img>
          
             </div>
             
