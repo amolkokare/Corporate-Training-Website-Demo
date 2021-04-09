@@ -99,7 +99,7 @@ function Navbar(){
                      </Link>
                  </li>
                  <li className='nav-item'>
-                     <Link to='/sign-up' className='nav-links-mobile nav-links' onClick={closeMenu}>
+                     <Link to='/SignUp' className='nav-links-mobile nav-links' onClick={closeMenu}>
                         Sign Up
                      </Link>
                  </li>

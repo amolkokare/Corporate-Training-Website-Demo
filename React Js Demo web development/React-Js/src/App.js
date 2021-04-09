@@ -13,6 +13,7 @@ import SocialResponsbility from './Components/pages/SocialResponsbility';
 import Cisco from './Components/pages/Cisco';
 import Sap from './Components/pages/Sap';
 import MotivationalTraining from './Components/pages/MotivationalTraining';
+import SignUp from './Components/pages/Signupbutton';
 
 
 
@@ -31,6 +32,7 @@ function App() {
      <Route path='/cisco' exact component={Cisco}/>
      <Route path='/sap' exact component={Sap}/>
      <Route path='/motivational' exact component={MotivationalTraining}/>
+     <Route path='/SignUp' exact component={SignUp}/>
    </Switch>
    </Router>
    
