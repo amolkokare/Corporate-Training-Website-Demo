@@ -34,18 +34,18 @@ export default function Home() {
             <div className="container" >
             
                     
-                <img src={process.env.PUBLIC_URL+"/images/img1.png"}alt="/" rounded ></img>
-                <img src={process.env.PUBLIC_URL+"/images/img2.png"}  alt="/"></img>
-                <img src={process.env.PUBLIC_URL+"/images/img3.png"}  alt="/"height="150"></img>
-                <img src={process.env.PUBLIC_URL+"/images/img4.png"} alt="/" height="150"></img>
-                <img src={process.env.PUBLIC_URL+"/images/img5.jpg"}  alt="/"></img>
-                <img src={process.env.PUBLIC_URL+"/images/img8.png"}  alt="/"></img>
-                <img src={process.env.PUBLIC_URL+"/images/img9.png"} alt="/"></img>
-                <img src={process.env.PUBLIC_URL+"/images/img10.png"} alt="/"></img>
-                <img src={process.env.PUBLIC_URL+"/images/img12.png"} alt="/"></img>
-                <img src={process.env.PUBLIC_URL+"/images/img6.jpg"} alt="/"></img>
-                <img src={process.env.PUBLIC_URL+"/images/img7.jpg"} alt="/"></img>
-                <img src={process.env.PUBLIC_URL+"/images/img13.png"} alt="/" height="100"></img>
+                <img className='img1' src={process.env.PUBLIC_URL+"/images/img1.png"}alt="/" rounded></img>
+                <img className='img1' src={process.env.PUBLIC_URL+"/images/img2.png"}  alt="/"></img>
+                <img className='img1' src={process.env.PUBLIC_URL+"/images/img3.png"}  alt="/"height="150"></img>
+                <img className='img1' src={process.env.PUBLIC_URL+"/images/img4.png"} alt="/" height="150"></img>
+                <img className='img1' src={process.env.PUBLIC_URL+"/images/img5.jpg"}  alt="/"></img>
+                <img className='img1' src={process.env.PUBLIC_URL+"/images/img8.png"}  alt="/"></img>
+                <img className='img1' src={process.env.PUBLIC_URL+"/images/img9.png"} alt="/"></img>
+                <img className='img1' src={process.env.PUBLIC_URL+"/images/img10.png"} alt="/"></img>
+                <img className='img1' src={process.env.PUBLIC_URL+"/images/img12.png"} alt="/"></img>
+                <img className='img1' src={process.env.PUBLIC_URL+"/images/img6.jpg"} alt="/"></img>
+                <img className='img1' src={process.env.PUBLIC_URL+"/images/img7.jpg"} alt="/"></img>
+                <img className='img1'  src={process.env.PUBLIC_URL+"/images/img13.png"} alt="/" height="100"></img>
 
 
                 

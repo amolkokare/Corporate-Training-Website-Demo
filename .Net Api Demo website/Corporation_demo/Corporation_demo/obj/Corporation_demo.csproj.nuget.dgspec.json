@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\Github\\Corporate-Training-Website-Demo\\.Net Api Demo website\\Corporation_demo\\Corporation_demo\\Corporation_demo.csproj",
         "projectName": "Corporation_demo",
         "projectPath": "D:\\Github\\Corporate-Training-Website-Demo\\.Net Api Demo website\\Corporation_demo\\Corporation_demo\\Corporation_demo.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
         "outputPath": "D:\\Github\\Corporate-Training-Website-Demo\\.Net Api Demo website\\Corporation_demo\\Corporation_demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

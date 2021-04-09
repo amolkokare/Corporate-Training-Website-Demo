@@ -12,7 +12,7 @@ export const MenuItems =[
     
     {
         title:'New Course',
-        path:'/corse',
+        path:'/course',
         cName:'dropdown-link'
     },
     {
