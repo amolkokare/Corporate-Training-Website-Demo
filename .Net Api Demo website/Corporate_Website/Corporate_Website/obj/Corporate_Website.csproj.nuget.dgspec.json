@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\Corporate-Training-Website-Demo\\.Net Api Demo website\\Corporate_Website\\Corporate_Website\\Corporate_Website.csproj": {}
+    "E:\\GitHub repo\\Corporate-Training-Website-Demo\\.Net Api Demo website\\Corporate_Website\\Corporate_Website\\Corporate_Website.csproj": {}
   },
   "projects": {
-    "D:\\Github\\Corporate-Training-Website-Demo\\.Net Api Demo website\\Corporate_Website\\Corporate_Website\\Corporate_Website.csproj": {
+    "E:\\GitHub repo\\Corporate-Training-Website-Demo\\.Net Api Demo website\\Corporate_Website\\Corporate_Website\\Corporate_Website.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\Corporate-Training-Website-Demo\\.Net Api Demo website\\Corporate_Website\\Corporate_Website\\Corporate_Website.csproj",
+        "projectUniqueName": "E:\\GitHub repo\\Corporate-Training-Website-Demo\\.Net Api Demo website\\Corporate_Website\\Corporate_Website\\Corporate_Website.csproj",
         "projectName": "Corporate_Website",
-        "projectPath": "D:\\Github\\Corporate-Training-Website-Demo\\.Net Api Demo website\\Corporate_Website\\Corporate_Website\\Corporate_Website.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\Corporate-Training-Website-Demo\\.Net Api Demo website\\Corporate_Website\\Corporate_Website\\obj\\",
+        "projectPath": "E:\\GitHub repo\\Corporate-Training-Website-Demo\\.Net Api Demo website\\Corporate_Website\\Corporate_Website\\Corporate_Website.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\GitHub repo\\Corporate-Training-Website-Demo\\.Net Api Demo website\\Corporate_Website\\Corporate_Website\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
