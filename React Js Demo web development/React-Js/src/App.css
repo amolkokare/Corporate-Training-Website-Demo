@@ -5,7 +5,7 @@
     font-family: 'PT Sans', sans-serif;
 }
 
-.CorporateTraining,.Microsoft,.home,.NewCourse,.ManisHiring,.Sap,.MotivationalTraining,.SocialResponsbility{
+.CorporateTraining,.Microsoft,.home{
     display: flex;
     height: 90vh;
     align-items: center;
@@ -41,7 +41,7 @@
   .heading1{
     display: flex;
     justify-content:center;
-    margin-bottom: 1%;
+    margin-bottom: 2%;
     margin-left: 6%;
     margin-top: 0%;
     
@@ -53,33 +53,19 @@
     text-align: center;
     color:rgb(00, 50, 73) ;
 }
-.container
-{
-  display: grid;
-  grid-template-columns:repeat(4, 4fr);
 
-  flex-wrap: wrap;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  align-content: flex-start;
-  border: 1px solid transparent;
-  border-color: black;
-  background-color: rgba(211, 241, 241, 0.425);
-  
-  margin-top: 3%;
-  margin-left: 10%;
-  margin-right: 3%;
-  margin-bottom: 14px;
-width: 80%;
-height: 80%;
-}
+
  .ig{
   margin-top: 2%;
   text-align: center;
   color:rgb(00, 50, 73) ;
 }
- 
+
+
+
+
+
+
   
 
 
@@ -121,7 +107,7 @@ height: 80%;
 }
 
 .home h2{
-    font-size: 30px;
+    font-size: 40px;
     font-style:inherit;
     align-items:left;
     margin-bottom: 10%;
@@ -151,38 +137,3 @@ height: 80%;
   height: 200px;
 
     }
-    .tb{
-      width: 80%;
-      height: 70px;
-      margin-top: 5%;
-      background-color:rgb(221, 231, 231);
-    }
-    .btn{
-      background-color: green !important;
-      padding: 3px 30px;
-    font-size: 20px;
-    border-radius: 5px;
-    
-    }
-    .img1{
-      border: 4px solid rgb(218, 34, 34);
-      
-      display: grid;
-  grid-template-columns:repeat(4, 4fr);
-
-  flex-wrap: wrap;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  align-content: flex-start;
-  border: 1px solid transparent;
-  border: 2px solid rgb(19, 16, 16);
- 
-  margin-top: 3%;
-  margin-left: 10%;
-  margin-right: 3%;
-  margin-bottom: 14px;
-width: 80%;
-height: 80%;
-    }
-   
